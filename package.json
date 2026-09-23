@@ -1,0 +1,1 @@
+{"name":"shinobi-eagler","version":"1.0.0","private":true,"type":"module","engines":{"node":">=22"},"scripts":{"build":"node build.mjs","start":"node server.mjs"}}
